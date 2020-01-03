@@ -7,9 +7,6 @@ This folder contains bash programs.
  - Contains more complex programs or projects
 
 ## Example List
-
+- Check_if_directory_is_empty.sh
 
 ## Program List
-
-
- 
