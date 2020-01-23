@@ -1,9 +1,9 @@
 # Bash code
 
 This folder contains bash programs.
-- ./Example
+- ./Examples
   - Contains small programs, each presenting one certain problem
-- ./Program
+- ./Programs
  - Contains more complex programs or projects
 
 ## Example List

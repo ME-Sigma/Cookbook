@@ -1,0 +1,26 @@
+
+		# Gerke, Users, oc, cs.uni-saarland.de
+		dn: uid=lukefilewalker,ou=People,ou=defponch,dc=uni-saarland,dc=de
+		objectClass: top
+		objectClass: person
+		objectClass: organizationalPerson
+		objectClass: posixAccount
+		objectClass: shadowAccount
+		objectClass: inetOrgPerson
+		cn: Luke Filewalker
+		givenName: Luke
+		sn: Filewalker
+		uid: lukefilewalker
+		userPassword: IAmYourFather
+		uidNumber: 20003
+		gidNumber: 20003
+		displayName: Luke Filewalker
+		description: Testuser
+		homeDirectory: /home/LukeFilewalker
+		loginShell: /bin/nologin
+		gecos: Luke Filewalker
+		mail: luke@gezi.cs.uni-saarland.de
+		shadowLastChange: 18157
+		shadowMax: 9999
+		shadowExpire: 18627
+	
